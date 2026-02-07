@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=buddheemaryan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Buddheema Ryan's Contributed Graph
+
 ## 📈 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuddheemaRyan&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/BuddheemaRyan)
