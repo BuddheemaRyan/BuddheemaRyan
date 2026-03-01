@@ -1,5 +1,29 @@
-# 💫 About Me:
-🚀 About Me<br><br>java<br>public class BudhheemaRyan {<br>private String role = "Software Engineering Student";<br>private String[] passions = {"Clean Code", "Problem Solving", "UI/UX Design"};<br>private String currentFocus = "Building meaningful projects";<br><br>public String getPhilosophy() {<br>      return "Turning ideas into code, one commit at a time ✨";<br>      }<br>}<br><br><br>> 💡 Passionate about building things that solve real problems<br>> 🎯 Focused on mastering Java, frontend development, and clean architecture<br>> 🎨 Creating as "Vizuo" - where tech meets creativity<br>> 🌱 Growing through every bug fixed and feature shipped<br><br>💡 What Drives Me<br><br><br><br>| 🔍 | 💻 | 🎨 | 🤝 |<br>|:---:|:---:|:---:|:---:|<br>| Curiosity | Clean Code | Design | Collaboration |<br>| Always learning | Readable & maintainable | Beautiful interfaces | Building together |<br><br><br><br>> My Journey: Started with curiosity → Turned into passion → Now building the future
+# 💫 About Me
+
+```java
+public class BuddheemaRyan {
+    private String role = "Software Engineering Student";
+    private String[] passions = {"Clean Code", "Problem Solving", "UI/UX Design"};
+    private String currentFocus = "Building meaningful projects";
+
+    public String getPhilosophy() {
+        return "Turning ideas into code, one commit at a time ✨";
+    }
+}
+```
+
+> 💡 Passionate about building things that solve real problems
+> 🎯 Focused on mastering Java, frontend development, and clean architecture
+> 🎨 Creating as **"Vizuo"** — where tech meets creativity
+> 🌱 Growing through every bug fixed and feature shipped
+
+### 💡 What Drives Me
+
+| 🔍 Curiosity | 💻 Clean Code | 🎨 Design | 🤝 Collaboration |
+|:---:|:---:|:---:|:---:|
+| Always learning | Readable & maintainable | Beautiful interfaces | Building together |
+
+> 🚀 **My Journey:** Started with curiosity → Turned into passion → Now building the future
 
 
 ## 🌐 Socials:
