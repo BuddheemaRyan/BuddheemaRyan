@@ -21,13 +21,13 @@
 <br>
 
 <p>
-  Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Software Engineering Student. I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time ✨. Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
+  Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Software Engineering Student. I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time . Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
 </p>
 
 
 <br>
 
-<p>
+<p align=center>
    🎓 &nbsp; <em><b>Software Engineering Student</b></em> <br>
    🎨 &nbsp; <em><b>Creating as "Vizuo" — where tech meets creativity</b></em><br>
    💻 &nbsp; <em><b>Focused on Java, frontend development & clean architecture</b></em><br>
@@ -87,3 +87,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=buddheemaryan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align=center>
+  
+  ![](https://komarev.com/ghpvc/?username=BuddheemaRyan&color=000000&style=flat-square&label=Profile+Views)
+</div>
+
+---
+
