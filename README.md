@@ -75,9 +75,7 @@
 
 <h2> 📊 <em>Statistics</em> </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=buddheemaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=buddheemaryan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buddheemaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![](https://nirzak-streak-stats.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
 <br>
 
@@ -85,7 +83,7 @@
 
 <br>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuddheemaRyan&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/BuddheemaRyan)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BuddheemaRyan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=buddheemaryan&icon=0&color=0)](https://visitcount.itsvg.in)
