@@ -14,8 +14,10 @@
 <br>
 
 <h2> 💫 <em>About Me</em></h2>
+<p align=center>
+  <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
+</p>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
 <br>
 
 <p>
@@ -76,8 +78,8 @@
 <h2> 📊 <em>Statistics</em> </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=BuddheemaRyan&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=circle" height="195" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff" height="195" />
+  <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=BuddheemaRyan&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=circle" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff" height="160" />
 </p>
 
 
