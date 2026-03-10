@@ -21,7 +21,7 @@
 <br>
 
 <p>
-  Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Software Engineering Student. I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time . Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
+  Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Trainee Software Engineering  I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time . Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
 </p>
 
 
