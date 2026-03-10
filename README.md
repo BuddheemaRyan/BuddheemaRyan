@@ -28,7 +28,7 @@
 <br>
 
 <p align=center>
-   🎓 &nbsp; <em><b>Software Engineering Student</b></em> <br>
+   🎓 &nbsp; <em><b>Trainee Software Engineering</b></em> <br>
    🎨 &nbsp; <em><b>Creating as "Vizuo" — where tech meets creativity</b></em><br>
    💻 &nbsp; <em><b>Focused on Java, frontend development & clean architecture</b></em><br>
    🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
