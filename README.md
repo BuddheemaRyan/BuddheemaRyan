@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
-
 <br>
 
 <h2> 💫 <em>About Me</em></h2>
