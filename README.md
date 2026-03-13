@@ -21,8 +21,6 @@
 <p>
   Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Trainee Software Engineering  I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time . Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
 </p>
-
-
 <br>
 
 <p align=center>
@@ -31,7 +29,6 @@
    💻 &nbsp; <em><b>Focused on Java, frontend development & clean architecture</b></em><br>
    🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
 </p>
-
 <br>
 <br>
 <h2> 🛠️ <em>Technologies</em> </h2>
