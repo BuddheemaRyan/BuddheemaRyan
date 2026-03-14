@@ -9,14 +9,10 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-<br>
-
 <h2> 💫 <em>About Me</em></h2>
 <p align=center>
   <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
 </p>
-
-<br>
 
 <p>
   Hello There! <em><b>I'm BuddheemaRyan</b></em>, a Trainee Software Engineering  I enjoy learning new technologies, problem solving, and building meaningful projects. I'm passionate about clean code, UI/UX design, and turning ideas into code — one commit at a time . Currently working on exciting projects to sharpen my skills in Java, frontend development, and clean architecture.
