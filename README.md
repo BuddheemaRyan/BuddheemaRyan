@@ -11,7 +11,7 @@
 </p>
 <h2> 💫 <em>About Me</em></h2>
 <p align=center>
-  <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
+  <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="350">
 </p>
 
 <p>
@@ -22,8 +22,8 @@
 <p align=center>
    🎓 &nbsp; <em><b>Trainee Software Engineering</b></em> <br>
    🎨 &nbsp; <em><b>Creating as "Vizuo" — where tech meets creativity</b></em><br>
-   💻 &nbsp; <em><b>Focused on Java, frontend development & clean architecture</b></em><br>
    🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
+   💻 &nbsp; <em><b>Focused on Java, frontend development & clean architecture</b></em><br>
 </p>
 <br>
 <br>
