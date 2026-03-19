@@ -18,7 +18,7 @@
   <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250">
 </p>
 
-Hey, I'm **Ryan** — a Full-Stack Developer, building toward a remote software engineering career. I focus on writing clean, maintainable code and shipping real projects that solve real problems.
+Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software engineering career. I focus on writing clean, maintainable code and shipping real projects that solve real problems.
 
 <br>
 
@@ -40,7 +40,6 @@ Hey, I'm **Ryan** — a Full-Stack Developer, building toward a remote software 
 | **MediQueue** | Real-time clinical queue & patient flow system — WebSockets, multi-role auth, audit logging | Spring Boot · Next.js · PostgreSQL · WebSocket |
 | **AI Support Interview System** | Team project — JWT auth, Supabase storage, Spring Security, global exception handling | Spring Boot · Supabase · Java |
 
-
 ---
 
 ## 🛠️ *Technologies*
@@ -51,6 +50,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer, building toward a remote software 
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 </p>
@@ -71,6 +71,15 @@ Hey, I'm **Ryan** — a Full-Stack Developer, building toward a remote software 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 **Databases & DevOps**
@@ -78,7 +87,9 @@ Hey, I'm **Ryan** — a Full-Stack Developer, building toward a remote software 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
