@@ -102,6 +102,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
