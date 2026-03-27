@@ -123,7 +123,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 
 <p align="center">
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=BuddheemaRyan&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=false&rank_icon=circle" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" height="160" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuddheemaRyan&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
