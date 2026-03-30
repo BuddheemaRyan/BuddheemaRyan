@@ -23,7 +23,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 <br>
 
 <p align="center">
-  💻 &nbsp; <em><b>Full-Stack Developer · Java / Spring Boot · Angular · Next.js · TypeScript</b></em><br>
+  💻 &nbsp; <em><b>Full-Stack Developer · Java · Spring Boot · Angular · Next.js · JavaScript · TypeScript</b></em><br>
   🏗️ &nbsp; <em><b>Built KICKNOIR — a full-stack sneaker e-commerce platform</b></em><br>
   🏥 &nbsp; <em><b>Building MediQueue — a real-time clinical queue management system</b></em><br>
   🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
