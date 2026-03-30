@@ -84,6 +84,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white">
 </p>
 
 **DevOps & Cloud**
