@@ -23,7 +23,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 <br>
 
 <p align="center">
-  💻 &nbsp; <em><b>Full-Stack Developer — Java · Spring Boot · Angular · Next.js · JavaScript · TypeScript</b></em><br>
+  💻 &nbsp; <em><b>Full-Stack Developer — Java · Spring Boot · Next.js · Angular · JavaScript · TypeScript</b></em><br>
   🏗️ &nbsp; <em><b>Built KICKNOIR — a full-stack sneaker e-commerce platform</b></em><br>
   🏥 &nbsp; <em><b>Building MediQueue — a real-time clinical queue management system</b></em><br>
   🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
@@ -36,7 +36,7 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 
 | Project | Description | Stack |
 |---|---|---|
-| **KICKNOIR** | Full-stack sneaker e-commerce — Stripe payments, JWT auth, role-based admin dashboard | Spring Boot · Angular · MySQL · Stripe |
+| **KICKNOIR** | Full-stack sneaker e-commerce — Stripe payments, JWT auth, role-based admin dashboard | Spring Boot · Angular · PostgreSQL · Stripe |
 | **MediQueue** | Real-time clinical queue & patient flow system — WebSockets, multi-role auth, audit logging | Spring Boot · Next.js · PostgreSQL · WebSocket |
 | **AI Support Interview System** | Team project — JWT auth, Supabase storage, Spring Security, global exception handling | Spring Boot · Supabase · Java |
 
