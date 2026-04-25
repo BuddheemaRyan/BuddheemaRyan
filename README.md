@@ -37,7 +37,6 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 | Project | Description | Stack |
 |---|---|---|
 | **KICKNOIR** | Full-stack sneaker e-commerce system — Stripe payments, JWT auth, role-based admin dashboard | Spring Boot · Angular · PostgreSQL · Stripe |
-| **MediQueue** | Real-time clinical queue & patient flow system — WebSockets, multi-role auth, audit logging | Spring Boot · Next.js · PostgreSQL · WebSocket |
 | **AI Support Interview System** | Team project — JWT auth, Supabase storage, Spring Security, global exception handling | Spring Boot · Supabase · Java |
 
 ---
