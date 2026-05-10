@@ -18,7 +18,7 @@
   <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250">
 </p>
 
-Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software engineering career. I focus on writing clean, maintainable code and shipping real projects that solve real problems.
+Hey, I'm **Ryan** - A Full-Stack Developer , building toward a remote software engineering career. I focus on writing clean, maintainable code and shipping real projects that solve real problems.
 
 <br>
 
