@@ -25,7 +25,6 @@ Hey, I'm **Ryan** — a Full-Stack Developer , building toward a remote software
 <p align="center">
   💻 &nbsp; <em><b>Full-Stack Developer — Java · Spring Boot · Next.js · Angular · JavaScript · TypeScript</b></em><br>
   🏗️ &nbsp; <em><b>Built KICKNOIR — a full-stack sneaker e-commerce platform</b></em><br>
-  🏥 &nbsp; <em><b>Building MediQueue — a real-time clinical queue management system</b></em><br>
   🌱 &nbsp; <em><b>Growing through every bug fixed and feature shipped</b></em><br>
   🎯 &nbsp; <em><b>Goal: Remote software engineering role — open to international opportunities</b></em><br>
 </p>
