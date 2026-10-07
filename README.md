@@ -122,7 +122,7 @@ Hey, I'm **Ryan** — a **Full-Stack Developer** , building toward a remote soft
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BuddheemaRyan&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" height="160" />
 </p>
 
-<img src="https://github.pumbas.net/api/contributions/BuddheemaRyan?colour=ffffff&bgColour=000000&dotColour=ffffff&days=75" width="100%" alt="BuddheemaRyan's Contributions"/>
+<img src="https://github.pumbas.net/api/contributions/BuddheemaRyan?colour=ffffff&bgColour=000000&dotColour=ffffff&days=75" width="100%" alt="BuddheemaRyan's Contributions" height="400"/>
 
 ---
 
